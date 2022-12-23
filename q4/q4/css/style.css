@@ -2,8 +2,9 @@
 
 .sub-box {
   display: table;
-  width: 100%;
+  
   margin-top: 50px;
+  width: 100%;
 }
 
 .main-area .sub-box:first-child {
@@ -11,8 +12,9 @@
 }
 
 .common-box {
-  display: table-cell;
   padding: 20px;
+  display: table-cell;
+ 
   text-align: center;
 }
 
