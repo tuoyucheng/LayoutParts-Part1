@@ -6,7 +6,7 @@
 }
 
 .cell--table th {
-  background-color: #319c4a;
+  background-color: #6ea7eb;
   font-size: 18px;
   line-height: 26px;
 }
@@ -23,11 +23,11 @@
 }
 
 .cell--table tr{
-  background: #d5ffc7;
+  background: #fff;
 }
 
 .cell--table tr:nth-child(even){
-  background: #bcbcbc;
+  background: #e0efff;
 }
 
 .cell--table tbody tr:last-child{
