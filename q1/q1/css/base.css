@@ -11,29 +11,29 @@ h1, h2, h3 {
   font-size: 30px;
 }
 
-.sub--title {
+.sub-title {
   font-size: 24px;
 }
 
-.question--title {
+.question-title {
   font-size: 20px;
 }
 
-.q1--horizontality {
+.q1-horizontality {
   width: 200px;
   margin: 0 auto 20px;
   padding: 20px;
   background-color: #a4e4f1;
 }
 
-.q1--perimeter {
+.q1-perimeter {
   width: 250px;
   height: 150px;
   margin: 0 auto 20px;
   background-color: #a4e4f1;
 }
 
-.q1--position {
+.q1-position {
   width: 250px;
   margin: 0 auto;
   padding: 20px 20px;
